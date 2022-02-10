@@ -1,0 +1,89 @@
+.body {
+}
+
+.container-fluid h1 {
+  text-align: left;
+  padding-top: 50px;
+  padding-left: 20px;
+}
+
+.container-fluid {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #eec373;
+  /* padding: 4em 1em; */
+  font-size: 45px;
+}
+.container-fluid img {
+  margin-left: 800px;
+  width: 500px;
+  margin-top: -250px;
+}
+.container-fluid button {
+  margin-left: 20px;
+}
+
+a {
+  color: white;
+  font-size: 18px;
+}
+
+/* a :hover {
+  background-color: black;
+} */
+
+.content {
+  background-color: rgb(175, 175, 245);
+}
+
+.content h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+ul {
+  display: grid;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  grid-template-columns: repeat(3, auto);
+  grid-template-rows: repeat(2, auto);
+}
+
+ul li {
+  padding: 2em;
+  color: #000000;
+}
+ul li span {
+  display: block;
+  font-size: 1.4em;
+  margin-bottom: 1em;
+  color: black;
+}
+/* REGISTER */
+.container {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /* margin-left: 100px;
+  margin-right: 500px; */
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: rgb(219, 217, 217);
+}
+
+.nav {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.container1 {
+}
+.container1 img {
+  width: 1350px;
+}
+
+.footer {
+  background-color: black;
+}
